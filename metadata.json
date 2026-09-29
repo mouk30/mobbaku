@@ -1,0 +1,7 @@
+{
+  "name": "모바일게임 쿠폰 모음소 - 최신 리딤코드 실시간 검증",
+  "description": "2026 최신 모바일게임 쿠폰 및 리딤코드 실시간 모음 사이트. 원신, 붕괴 스타레일, 나혼렙, AFK 여정 등 매일 검증된 무료 쿠폰 번호와 보상, 아이폰/안드로이드 등록 방법 안내.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
